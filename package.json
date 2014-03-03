@@ -1,0 +1,12 @@
+{
+    "name": "Acelerometro_Arduino",
+    "version": "0.0.1",
+    "description": "Control",
+    "dependencies": {
+        "socket.io": "*",
+        "express": "*",
+        "johnny-five": "*",
+        "jade": "*"
+    },
+    "author": "josedeweb"
+}
